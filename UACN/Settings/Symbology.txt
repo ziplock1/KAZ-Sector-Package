@@ -76,7 +76,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:2:7
-Other:freetext:2894892:3.9:0:0:7
+Other:freetext:16777215:3.9:0:0:7
 Other:range rings:65535:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
@@ -385,3 +385,4 @@ SYMBOLITEM:LINETO 2 -11
 SYMBOLITEM:LINETO 0 -12
 m_ClipArea:0
 END
+
