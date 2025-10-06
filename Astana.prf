@@ -6,27 +6,27 @@ Settings	airways	\UACN\NavData\airway.txt
 Settings	isec	\UACN\NavData\isec.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-ettings	SettingsfileSIL	\UACN\Settings\TAG.txt
-Settings	SettingsfileSEL	\UACN\Settings\ExitList.txt
-Settings	SettingsfileDEP	\UACN\Settings\DepartureList.txt
-Settings	SettingsfileARR	\UACN\Settings\ArrivalList.txt
-Settings	SettingsfileSYMBOLOGY	\UACN\Settings\Symbology.txt
+Settings	SettingsfileSYMBOLOGY	\UACN\Settings\UACN_Symbology.txt
 Settings	SettingsfileVOICE	\UACN\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\UACN\Settings\LoginProfiles.txt
-Settings	SettingsfileTAGS	\UACN\Settings\TAG.txt
-Settings	SettingsfilePLUGINS	\UACN\Settings\Plugin.txt
-Settings	Settingsfile	\UACN\Settings\General.txt
-Settings	SettingsfileVCCS	\UACN\Settings\VCCS.txt
-Settings	SettingsfileFP	\UACN\Settings\FPList.txt
-Settings	SettingsfileCONFLICT	\UACN\Settings\ConflictList.txt
-Settings	SettingsfilePILOTING	\UACN\Settings\PilotingList.txt
-Settings	SettingsfileORIGPLANE	\UACN\Settings\OriginPlaneList.txt
-Settings	SettingsfileSTUP	\UACN\Settings\StartupList.txt
-Settings	SettingsfileTAXIOUT	\UACN\Settings\TaxioutList.txt
-Settings	SettingsfileTAKEOFF	\UACN\Settings\TakeoffList.txt
-Settings	SettingsfileADCS	\UACN\Settings\ADCSectorList.txt
-Settings	SettingsfileTAXIIN	\UACN\Settings\TaxiinList.txt
-Settings	SettingsfileSCREEN	\UACN\Settings\Screen.txt
+Settings	SettingsfilePROFILE	\UACN\Settings\UACN_Profile.txt
+Settings	SettingsfileTAGS	\UACN\Settings\UACN_Tags.txt
+Settings	SettingsfileSIL	\UACN\Settings\UACN_Lists.txt
+Settings	SettingsfileSEL	\UACN\Settings\UACN_Lists.txt
+Settings	SettingsfileDEP	\UACN\Settings\UACN_DepartureList.txt
+Settings	SettingsfileARR	\UACN\Settings\UACN_Lists.txt
+Settings	SettingsfileFP	\UACN\Settings\UACN_Lists.txt
+Settings	SettingsfilePLUGINS	\UACN\Settings\UACN_Plugins.txt
+Settings	Settingsfile	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileSCREEN	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileCONFLICT	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileVCCS	\UACN\Settings\UACN_VCCS.txt
+Settings	SettingsfileFP	\UACN\Settings\UACN_Lists.txt
+Settings	SettingsfileORIGPLANE	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileSTUP	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileTAXIOUT	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileTAKEOFF	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileADCS	\UACN\Settings\UACN_Settings.txt
+Settings	SettingsfileTAXIIN	\UACN\Settings\UACN_Settings.txt
 Sounds	Sound0	\UACN\Sounds\handoff_request.wav
 Sounds	Sound1	\UACN\Sounds\handoff_accept.wav
 Sounds	Sound2	\UACN\Sounds\conflict_alert.wav
@@ -85,4 +85,5 @@ Plugins	Plugin2	\UACN\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\UACN\Plugins\Timer\ESTimers.dll
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
+
 
