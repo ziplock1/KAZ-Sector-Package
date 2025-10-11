@@ -252,7 +252,6 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:53::0:0:105:105:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
 TAGITEM:44::0:1:22:45:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:159::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:4::0:1:100:0:IASsure:0:1:IASsure::1
 TAGTYPE:2:21:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
@@ -507,7 +506,6 @@ TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:70::0:0:0:0:TopSky plugin:0:0:::1
 TAGITEM:10010::0:1:0:0:TopSky plugin:0:0:::1
-TAGITEM:8::0:0:0:0:IASsure:0:1:::1
 TAGITEM:33::0:0:0:0::0:1:::1
 TAGTYPE:1:20:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
@@ -591,8 +589,6 @@ TAGITEM:70::0:1:650:2:TopSky plugin:0:1:VCH:TopSky plugin:1
 TAGITEM:79::0:1:7:1001:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:120::0:1:59:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:1::0:0:0:0:IASsure:0:1:::1
-TAGITEM:5::0:1:107:103:IASsure:0:1:IASsure:IASsure:1
 TAGTYPE:3:1:0
 TAGITEM:90::0:0:41:0::0:1:::1
 TAGITEM:39::1:1:0:0::0:1:::0
