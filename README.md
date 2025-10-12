@@ -1,5 +1,5 @@
 # KAZ-Sector-Package
-Data source for KAZ(Kazakhstan - UACN/UAAA/UAII/UATT) Sector Packages on Global Nav Generator(GNG)
+Data source for Kazakhstan (UACN/UAAA/UAII/UATT) Sector Packages on Global Nav Generator(GNG)
 
 Full package is available on [files.aero-nav.com](https:/files.aero-nav.com/)
 
