@@ -1,0 +1,89 @@
+Settings	airlines	\UAAA\ICAO\ICAO_Airlines.txt
+Settings	airports	\UAAA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UAAA\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\UAAA\NavData\icao.txt
+Settings	airways	\UAAA\NavData\airway.txt
+Settings	isec	\UAAA\NavData\isec.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSYMBOLOGY	\UAAA\Settings\UAAA_Symbology.txt
+Settings	SettingsfileVOICE	\UAAA\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\UAAA\Settings\UAAA_Profile.txt
+Settings	SettingsfileTAGS	\UAAA\Settings\UAAA_Tags.txt
+Settings	SettingsfileSIL	\UAAA\Settings\UAAA_Lists.txt
+Settings	SettingsfileSEL	\UAAA\Settings\UAAA_Lists.txt
+Settings	SettingsfileDEP	\UAAA\Settings\UAAA_DepartureList.txt
+Settings	SettingsfileARR	\UAAA\Settings\UAAA_Lists.txt
+Settings	SettingsfileFP	\UAAA\Settings\UAAA_Lists.txt
+Settings	SettingsfilePLUGINS	\UAAA\Settings\UAAA_Plugins.txt
+Settings	Settingsfile	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileSCREEN	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileCONFLICT	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileVCCS	\UAAA\Settings\UAAA_VCCS.txt
+Settings	SettingsfileFP	\UAAA\Settings\UAAA_Lists.txt
+Settings	SettingsfileORIGPLANE	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileSTUP	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileTAXIOUT	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileTAKEOFF	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileADCS	\UAAA\Settings\UAAA_Settings.txt
+Settings	SettingsfileTAXIIN	\UAAA\Settings\UAAA_Settings.txt
+Sounds	Sound0	\UAAA\Sounds\handoff_request.wav
+Sounds	Sound1	\UAAA\Sounds\handoff_accept.wav
+Sounds	Sound2	\UAAA\Sounds\conflict_alert.wav
+Sounds	Sound3	\UAAA\Sounds\radio_message.wav
+Sounds	Sound4	\UAAA\Sounds\private_message.wav
+Sounds	Sound5	\UAAA\Sounds\atc_message.wav
+Sounds	Sound6	\UAAA\Sounds\broadcast_message.wav
+Sounds	Sound7	\UAAA\Sounds\landline_request.wav
+Sounds	Sound8	\UAAA\Sounds\supervisor_message.wav
+Sounds	Sound9	\UAAA\Sounds\connected.wav
+Sounds	Sound10	\UAAA\Sounds\disconnected.wav
+Sounds	Sound11	\UAAA\Sounds\ongoing_request.wav
+Sounds	Sound12	\UAAA\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UAAA\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UAAA\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UAAA\Sounds\new_atis.wav
+Sounds	Sound16	\UAAA\Sounds\handoff_refused.wav
+Sounds	Sound17	\UAAA\Sounds\pointout.wav
+Sounds	Sound18	\UAAA\Sounds\startup_silent.wav
+TeamSpeakVccs	TsVccsMiniControlX	1990
+TeamSpeakVccs	TsVccsMiniControlY	48
+TeamSpeakVccs	Ts3DialogLeft	1116
+TeamSpeakVccs	Ts3DialogTop	46
+TeamSpeakVccs	Ts3DialogRight	1830
+TeamSpeakVccs	Ts3DialogBottom	610
+TeamSpeakVccs	Ts3G2APtt	3670016
+TeamSpeakVccs	Ts3G2GPtt	3670016
+TeamSpeakVccs	Ts3NickName	Your CID
+RecentFiles	Recent1	\UAAA\ASR\ACC\Almaty.asr
+RecentFiles	Recent2	\UAAA\ASR\GND\UAAA_GND.asr
+RecentFiles	Recent3	\UAAA\ASR\GND\UAAH_GND.asr
+RecentFiles	Recent4	\UAAA\ASR\GND\UAAL_GND.asr
+RecentFiles	Recent5	\UAAA\ASR\GND\UAKT_GND.asr
+RecentFiles	Recent6	\UAAA\ASR\GND\UASK_GND.asr
+RecentFiles	Recent7	\UAAA\ASR\GND\UASS_GND.asr
+RecentFiles	Recent8	\UAAA\ASR\GND\UASU_GND.asr
+RecentFiles	Recent8	\UAAA\ASR\GND\UASZ_GND.asr
+Plugins	Plugin0	\UAAA\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin1	\UAAA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\UAAA\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\UAAA\Plugins\Timer\ESTimers.dll
+Plugins	Plugin4	\UAAA\Plugins\VCH\VCH.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
+LastSession	atis_freq0	129500
+LastSession	atis_url0	https://vatis.ru/P-FBABDD45?arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
+LastSession	atis_callsign0	UACC_ATIS
+LastSession	atis_letter0	65
+LastSession	atis_url1	https://vatis.ru/P-FBABDD45?arrp=$atisairportB&arr=$arrrwy($atisairportB)&dep=$deprwy($atisairportB)&info=$atiscodeB
+LastSession	atis_callsign1	UAKK_ATIS
+LastSession	atis_freq1	135800
+LastSession	atis_url2	https://vatis.ru/P-FBABDD45?arrp=$atisairportC&arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&info=$atiscodeC
+LastSession	atis_callsign2	UAUU_ATIS
+LastSession	atis_freq2	118500
