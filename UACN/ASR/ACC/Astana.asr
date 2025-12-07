@@ -138,7 +138,7 @@ Runways:UAUU 14-32:extended centerline 2 right ticks
 Runways:UAUU 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
-BELOW:1250
+BELOW:0
 ABOVE:0
 LEADER:6
 SHOWLEADER:1
@@ -150,3 +150,4 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Galaxy CTR
 WINDOWAREA:43.579963:49.494370:56.913298:87.747917
+
