@@ -191,7 +191,7 @@ m_ShowTsVccsMiniControl:1
 ScenarioEditorX:977
 ScenarioEditorY:185
 m_ShowSTARControllers:1
-BackgroundGrphicsInThread:0
+BackgroundGrphicsInThread:1
 CONFLICT
 m_Visible:0
 m_X:50
@@ -328,4 +328,5 @@ m_Column:STN:4:1:19:29:0:1::::1:0.0
 m_Column:ATYP:4:1:16:0:0:1::::1:0.0
 m_Column:STS:4:1:59:46:46:1::::1:0.0
 END
+
 
