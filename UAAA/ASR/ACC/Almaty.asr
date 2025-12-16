@@ -160,7 +160,7 @@ Runways:UASZ 09-27:extended centerline 2 right ticks
 Runways:UASZ 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
-BELOW:1250
+BELOW:0
 ABOVE:0
 LEADER:6
 SHOWLEADER:1
