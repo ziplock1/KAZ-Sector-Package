@@ -8,7 +8,7 @@ m_ShowSimulatedData:0
 m_TransitionAltitude:3500
 m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
-m_CenterlineLength:15.0
+m_CenterlineLength:11.5
 m_CenterlineTickDme:1.0
 m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.4
@@ -327,3 +327,4 @@ m_Column:STN:4:1:19:29:0:1::::1:0.0
 m_Column:ATYP:4:1:16:0:0:1::::1:0.0
 m_Column:STS:4:1:59:46:46:1::::1:0.0
 END
+
