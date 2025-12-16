@@ -59,7 +59,7 @@ RecentFiles	Recent1	\UAAA\ASR\ACC\Almaty.asr
 RecentFiles	Recent2	\UAAA\ASR\GND\UAAA_GND.asr
 RecentFiles	Recent3	\UAAA\ASR\GND\UAAH_GND.asr
 RecentFiles	Recent4	\UAAA\ASR\GND\UAAL_GND.asr
-RecentFiles	Recent5	\UAAA\ASR\GND\UAKT_GND.asr
+RecentFiles	Recent5	\UAAA\ASR\GND\UAAT_GND.asr
 RecentFiles	Recent6	\UAAA\ASR\GND\UASK_GND.asr
 RecentFiles	Recent7	\UAAA\ASR\GND\UASS_GND.asr
 RecentFiles	Recent8	\UAAA\ASR\GND\UASU_GND.asr
@@ -86,4 +86,5 @@ LastSession	atis_callsign1	UAKK_ATIS
 LastSession	atis_freq1	135800
 LastSession	atis_url2	https://vatis.ru/P-FBABDD45?arrp=$atisairportC&arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&info=$atiscodeC
 LastSession	atis_callsign2	UAUU_ATIS
+
 LastSession	atis_freq2	118500
